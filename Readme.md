@@ -27,12 +27,12 @@ Synapse has an open-source Spark version with built-in support for . NET, wherea
 
 https://adatis.co.uk/databricks-vs-synapse-spark-pools-what-when-and-where/
 
-|Azure | AWS | GCP |
-|---|---|---|---|---|
-| Data factory | Glue | Cloud DataPrep |
-| Synapse Analytics | Redshift | BigQuery |
-| Databricks | Databricks on AWS | Databricks on GCP |
-| Purview | - | -
+| Azure             | AWS               | GCP               |
+|-------------------|-------------------|-------------------|
+| Data factory      | Glue              | Cloud DataPrep    |
+| Synapse Analytics | Redshift          | BigQuery          |
+| Databricks        | Databricks on AWS | Databricks on GCP |
+| Purview           | -                 | -                 |
 
 # Azure DL/DW model architecutre 
 
