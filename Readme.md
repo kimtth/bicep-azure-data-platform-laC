@@ -1,7 +1,7 @@
 
 # Intrastructure as a code : Bicep - Azure Data Platforms
 
-In this chapter, we are going to deploy Azure Data Platforms by Bicep. Infrastructure automation reduces redundant manipulations, this code can deploy all data platforms in approx 3 mins.
+In this chapter, we are going to deploy Azure Data Platforms by Bicep. Infrastructure automation reduces redundant manipulations. By using this code we can deploy all data platforms within approx. 3-4 mins.
 
 - What is Bicep?
 
